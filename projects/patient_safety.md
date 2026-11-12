@@ -4,7 +4,7 @@
 
 ## Context
 
-On an inpatient pediatric/adolescent psychiatric unit, the owner reports serving as a frontline implementation lead for CPI-informed de-escalation practices associated with an **approximately 80% restraint-utilization reduction**. Measurement period, case mix, denominators and independent attribution are not established in this portfolio.
+On an inpatient pediatric/adolescent psychiatric unit, I served as a frontline implementation lead for CPI-informed de-escalation practices associated with an **approximately 80% restraint-utilization reduction**. Measurement period, case mix, denominators, and independent attribution are not established in this portfolio.
 
 ## Illustrative improvement approach
 

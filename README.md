@@ -29,11 +29,11 @@ python scripts/a3_wait_time_analysis.py
 python scripts/patient_safety_analysis.py
 ```
 
-The original A3 source is not included here. Do not upload the full source report or any employer material without owner review and publication approval.
+The original A3 source is not included here. Employer material and protected source documents are excluded from this public repository.
 
 ## Interpretation limits
 
-Synthetic analyses are method demonstrations, not observed clinical outcomes. Historical claims require verification of baseline, denominator, time period, attribution, and publication rights before external use.
+Synthetic analyses are method demonstrations, not observed clinical outcomes. Historical claims are kept separate from synthetic results and should be interpreted with their documented baseline, denominator, time period, and attribution.
 
 ## Repository map
 
