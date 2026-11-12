@@ -2,7 +2,7 @@
 
 **Type:** Owner-reported historical case, American Medical Staffing.
 
-I redesigned evaluation, reevaluation, treatment-plan, and discharge templates for an agency using an electronic clinical system. My historical résumé reports approximately **35% better documentation performance** and **87% fewer documentation-related errors**. Underlying denominators, measure definitions, and observation dates are not specified in this portfolio.
+I redesigned evaluation, reevaluation, treatment-plan, and discharge templates for an agency using an electronic clinical system. My historical résumé describes improvements in documentation performance and fewer documentation-related errors; numerical percentages are not published here because the available materials do not specify the required denominators, measure definitions, and observation dates.
 
 ## Demonstration deliverables
 
@@ -13,4 +13,4 @@ I redesigned evaluation, reevaluation, treatment-plan, and discharge templates f
 
 ## Limits
 
-No agency templates or real case files are published. A 35% performance improvement and 87% error reduction must not be added together or converted to monetary savings without denominators, rates, rework time and costing.
+No agency templates or real case files are published. Documentation improvements must not be converted to monetary savings without denominators, rates, rework time, and costing.

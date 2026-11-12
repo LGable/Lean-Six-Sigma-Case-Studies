@@ -4,7 +4,7 @@
 
 ## Context
 
-On an inpatient pediatric/adolescent psychiatric unit, I served as a frontline implementation lead for CPI-informed de-escalation practices associated with an **approximately 80% restraint-utilization reduction**. Measurement period, case mix, denominators, and independent attribution are not established in this portfolio.
+On an inpatient pediatric/adolescent psychiatric unit, I served as a frontline implementation lead for CPI-informed de-escalation practices. Restraint frequency decreased from approximately two events per day to two events per week across assigned shifts, observed over two months using restraint documentation, patient records, and nursing follow-up reports. This was associated with my de-escalation practices; no sole causal claim is made.
 
 ## Illustrative improvement approach
 
@@ -16,7 +16,7 @@ On an inpatient pediatric/adolescent psychiatric unit, I served as a frontline i
 
 ## Demonstration data
 
-`data/safety_run_chart_synthetic.csv` contains **invented monthly incident counts and patient-days** only. It does not reproduce the 80% historical result or any hospital safety log. See the analysis script for rates and cautions.
+`data/safety_run_chart_synthetic.csv` contains **invented monthly incident counts and patient-days** only. It does not reproduce the historical observation or any hospital safety log. See the analysis script for rates and cautions.
 
 ## Limitations
 
