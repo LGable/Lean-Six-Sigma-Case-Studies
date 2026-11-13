@@ -1,6 +1,6 @@
 # Documentation and Billing Reconciliation | Workflow Standardization
 
-**Type:** Owner-reported historical implementation. No real student information included.
+**Type:** Historical implementation. No real student information included.
 
 ## Problem
 

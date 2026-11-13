@@ -4,7 +4,7 @@
 
 ## Context
 
-On an inpatient pediatric/adolescent psychiatric unit, I served as a frontline implementation lead for CPI-informed de-escalation practices. Restraint frequency decreased from approximately two events per day to two events per week across assigned shifts, observed over two months using restraint documentation, patient records, and nursing follow-up reports. This was associated with my de-escalation practices; no sole causal claim is made.
+On an inpatient pediatric/adolescent psychiatric unit, I was a frontline contributor to CPI-informed de-escalation and implementation practices. Restraint frequency decreased from approximately two events per day to two events per week across my assigned shifts, observed over two months using restraint documentation, patient records, and nursing follow-up reports. This was associated with my de-escalation practices; it does not represent unit-wide performance or establish sole causality.
 
 ## Illustrative improvement approach
 

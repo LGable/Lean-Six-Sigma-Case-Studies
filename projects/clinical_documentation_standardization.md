@@ -1,6 +1,6 @@
 # Clinical Documentation Standardization | Template Design
 
-**Type:** Owner-reported historical case, American Medical Staffing.
+**Type:** Historical professional case, American Medical Staffing.
 
 I redesigned evaluation, reevaluation, treatment-plan, and discharge templates for an agency using an electronic clinical system. My historical résumé describes improvements in documentation performance and fewer documentation-related errors; numerical percentages are not published here because the available materials do not specify the required denominators, measure definitions, and observation dates.
 

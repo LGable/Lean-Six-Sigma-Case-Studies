@@ -14,7 +14,7 @@ Public-safe demonstrations of A3 thinking, DMAIC, documentation redesign, safety
 | Case study | Evidence and scope |
 |---|---|
 | [A3 patient wait-time demonstration](projects/a3_patient_wait_times.md) | Simulated ambulatory wait-time example |
-| [Documentation and billing reconciliation](projects/documentation_reconciliation.md) | Owner-reported 46-record implementation output; no patient records |
+| [Documentation and billing reconciliation](projects/documentation_reconciliation.md) | Historical 46-record implementation output; no patient records |
 | [Psychiatric safety and restraint reduction](projects/patient_safety.md) | Historically reported team-associated result with fictional run-chart data |
 | [Clinical documentation redesign](projects/clinical_documentation_standardization.md) | Self-reported documentation improvement context |
 
